@@ -1,6 +1,6 @@
 👋 Hi, I’m Christian Moll, a second year student at Indiana University's Luddy School of Informatics, Computing, and Engineering.
 - I’m interested in Software Engineering and Data Science/Analytics, 
-- I’m currently learning Discrete Structures and Software Systems
+- I’m currently taking Linear Algebra, Intro to AI, and System Programming in C and Unix
 - I’m looking to collaborate on Python or Java projects, 
 📫 How to reach me: crmoll@iu.edu
 
